@@ -1,0 +1,2 @@
+﻿D:\Software\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(01函数模板语法.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  01函数模板语法.vcxproj -> E:\VisualStudioProjects\01-Cpp-Practice-Itheima\03C++提高编程\01函数模板语法\x64\Debug\01模板语法.exe

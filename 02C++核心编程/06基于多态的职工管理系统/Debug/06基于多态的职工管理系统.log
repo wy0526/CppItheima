@@ -1,0 +1,6 @@
+﻿  workerManager.cpp
+E:\VisualStudioProjects\01-Cpp-Practice-Itheima\02C++核心编程\06基于多态的职工管理系统\workerManager.cpp(374,4): warning C4065: switch 语句包含“default”但是未包含“case”标签
+E:\VisualStudioProjects\01-Cpp-Practice-Itheima\02C++核心编程\06基于多态的职工管理系统\workerManager.cpp(363,10): warning C4102: “case1”: 未引用的标签
+E:\VisualStudioProjects\01-Cpp-Practice-Itheima\02C++核心编程\06基于多态的职工管理系统\workerManager.cpp(366,10): warning C4102: “case2”: 未引用的标签
+E:\VisualStudioProjects\01-Cpp-Practice-Itheima\02C++核心编程\06基于多态的职工管理系统\workerManager.cpp(369,10): warning C4102: “case3”: 未引用的标签
+  06基于多态的职工管理系统.vcxproj -> E:\VisualStudioProjects\01-Cpp-Practice-Itheima\02C++核心编程\06基于多态的职工管理系统\Debug\06基于多态的职工管理系统.exe
